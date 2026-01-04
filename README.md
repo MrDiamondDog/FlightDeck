@@ -19,7 +19,9 @@ The hardware falls around $40 on Aliexpress, if you order from Adafruit it will 
 
 ## Firmware
 
-Programmed in CircuitPython, using a free API to get flight data (I have not found one that works yet)
+Programmed in CircuitPython, using the https://airlabs.co/ free live flight API. You may have to send them an email to get access. 
+
+Make sure to rename the `settings.example.toml` file to `settings.toml` and fill in all the values.
 
 Use [this guide](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/) to get everything set up.
 

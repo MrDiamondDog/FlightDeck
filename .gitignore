@@ -1,5 +1,4 @@
 *.bak
 *.lck
 *.zip
-*.uf2
-*.bin
+settings.toml
