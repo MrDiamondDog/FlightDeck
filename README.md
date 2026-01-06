@@ -17,6 +17,8 @@ The hardware falls around $40 on Aliexpress, if you order from Adafruit it will 
 - Adafruit 64x32 RGB LED Matrix, 5mm pitch, 320x160mm ([Aliexpress](https://www.aliexpress.us/item/2251832185365664.html?spm=a2g0o.cart.0.0.2df338da3gqd4x&mp=1&pdp_npi=6%40dis%21USD%21USD%2012.49%21USD%2011.69%21%21USD%2011.69%21%21%21%402101d97817674142255001359e91db%2157993804537%21ct%21US%216602055344%21%211%210%21&gatewayAdapt=glo2usa))
 - Adafruit Matrix Portal ESP-S3 ([Aliexpress](https://www.aliexpress.us/item/3256810420069690.html?spm=a2g0o.cart.0.0.2df338da3gqd4x&mp=1&pdp_npi=6%40dis%21USD%21USD%2034.55%21USD%2022.80%21%21USD%2022.80%21%21%21%402101d97817674142255001359e91db%2112000052957076504%21ct%21US%216602055344%21%211%210%21&gatewayAdapt=glo2usa))
 
+Use [this website](https://learn.adafruit.com/adafruit-matrixportal-s3/overview) for more information on setting up the Matrix Portal.
+
 The power and data connections are pretty simple, use the power wires from the LED Matrix to connect the microcontroller and just plug the microcontroller directly into the LED matrix, no need for the ribbon cable. [This guide](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/) explains it in more detail.
 
 ### Wiring Diagram
