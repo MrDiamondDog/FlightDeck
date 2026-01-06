@@ -19,6 +19,11 @@ The hardware falls around $40 on Aliexpress, if you order from Adafruit it will 
 
 The power and data connections are pretty simple, use the power wires from the LED Matrix to connect the microcontroller and just plug the microcontroller directly into the LED matrix, no need for the ribbon cable. [This guide](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/) explains it in more detail.
 
+### Wiring Diagram
+
+<img width="2135" height="1137" alt="image" src="https://github.com/user-attachments/assets/f8d3df92-815a-4f31-89e8-5137e2766159" />
+(Pretend the microcontroller is an S3 not M4, it has the same wiring)
+
 ## Firmware
 
 Programmed in CircuitPython, using the https://airlabs.co/ free live flight API. You may have to send them an email to get access. 
