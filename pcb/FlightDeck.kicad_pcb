@@ -2136,6 +2136,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/lib/ESP32-DEVKITC-32E/ESP32-DEVKITC-32E.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2579,6 +2580,80 @@
 			)
 		)
 	)
+	(gr_poly
+		(pts
+			(xy 111.270503 92.968015) (xy 111.342126 92.977341) (xy 111.41302 92.991543) (xy 111.482924 93.010594)
+			(xy 111.551578 93.03447) (xy 111.61872 93.063146) (xy 111.684092 93.096597) (xy 111.747431 93.134798)
+			(xy 111.808478 93.177725) (xy 113.935728 94.765225) (xy 113.997014 94.808529) (xy 114.060623 94.847058)
+			(xy 114.126292 94.880788) (xy 114.193756 94.909694) (xy 114.26275 94.933749) (xy 114.333009 94.95293)
+			(xy 114.404269 94.96721) (xy 114.476266 94.976564) (xy 114.548734 94.980968) (xy 114.621408 94.980396)
+			(xy 114.694025 94.974823) (xy 114.76632 94.964224) (xy 114.838027 94.948573) (xy 114.908882 94.927845)
+			(xy 114.978621 94.902015) (xy 115.046979 94.871059) (xy 117.264187 93.780975) (xy 117.317802 93.755494)
+			(xy 117.372332 93.732619) (xy 117.427686 93.712357) (xy 117.483768 93.694718) (xy 117.540486 93.679713)
+			(xy 117.597747 93.667348) (xy 117.655457 93.657635) (xy 117.713522 93.650582) (xy 117.77185 93.646197)
+			(xy 117.830347 93.644492) (xy 117.888919 93.645473) (xy 117.947474 93.649152) (xy 118.005917 93.655536)
+			(xy 118.064155 93.664636) (xy 118.122096 93.676459) (xy 118.179645 93.691017) (xy 118.692936 93.839183)
+			(xy 118.732746 93.851452) (xy 118.771587 93.865851) (xy 118.809388 93.882318) (xy 118.846076 93.90079)
+			(xy 118.881581 93.921206) (xy 118.915831 93.943503) (xy 118.948753 93.967618) (xy 118.980277 93.99349)
+			(xy 119.01033 94.021057) (xy 119.038841 94.050256) (xy 119.065738 94.081025) (xy 119.090949 94.113302)
+			(xy 119.114403 94.147024) (xy 119.136028 94.182129) (xy 119.155752 94.218556) (xy 119.173504 94.256242)
+			(xy 119.189113 94.294864) (xy 119.202458 94.33408) (xy 119.213543 94.373793) (xy 119.222371 94.41391)
+			(xy 119.228944 94.454335) (xy 119.233265 94.494974) (xy 119.235338 94.535731) (xy 119.235166 94.576512)
+			(xy 119.232751 94.617221) (xy 119.228097 94.657765) (xy 119.221206 94.698047) (xy 119.212082 94.737974)
+			(xy 119.200728 94.77745) (xy 119.187146 94.81638) (xy 119.17134 94.85467) (xy 119.153312 94.892225)
+			(xy 118.952229 95.294392) (xy 118.928546 95.339529) (xy 118.903157 95.383627) (xy 118.876094 95.42664)
+			(xy 118.847388 95.468521) (xy 118.817069 95.509224) (xy 118.785169 95.548702) (xy 118.751719 95.586909)
+			(xy 118.71675 95.623798) (xy 118.680292 95.659323) (xy 118.642377 95.693437) (xy 118.603036 95.726094)
+			(xy 118.562299 95.757247) (xy 118.520199 95.78685) (xy 118.476765 95.814856) (xy 118.432028 95.841219)
+			(xy 118.386021 95.865892) (xy 111.59152 99.236683) (xy 111.553761 99.254468) (xy 111.515436 99.270707)
+			(xy 111.476593 99.285395) (xy 111.437279 99.298523) (xy 111.39754 99.310086) (xy 111.357425 99.320076)
+			(xy 111.31698 99.328486) (xy 111.276253 99.335309) (xy 111.235291 99.340539) (xy 111.194141 99.344167)
+			(xy 111.15285 99.346188) (xy 111.111465 99.346594) (xy 111.070034 99.345379) (xy 111.028605 99.342535)
+			(xy 110.987223 99.338056) (xy 110.945937 99.331934) (xy 110.945937 99.342517) (xy 109.697104 99.130849)
+			(xy 108.63877 97.014183) (xy 109.220854 96.723142) (xy 109.277625 96.696608) (xy 109.335501 96.673612)
+			(xy 109.394322 96.654153) (xy 109.453932 96.638233) (xy 109.514173 96.62585) (xy 109.574887 96.617006)
+			(xy 109.635916 96.611699) (xy 109.697103 96.60993) (xy 109.75829 96.611699) (xy 109.81932 96.617006)
+			(xy 109.880034 96.62585) (xy 109.940274 96.638233) (xy 109.999884 96.654153) (xy 110.058706 96.673612)
+			(xy 110.116582 96.696608) (xy 110.173353 96.723142) (xy 110.263312 96.776058) (xy 110.320083 96.802592)
+			(xy 110.377959 96.825588) (xy 110.436781 96.845047) (xy 110.496391 96.860967) (xy 110.556632 96.87335)
+			(xy 110.617345 96.882194) (xy 110.678375 96.887501) (xy 110.739562 96.88927) (xy 110.800749 96.887501)
+			(xy 110.861778 96.882194) (xy 110.922492 96.87335) (xy 110.982733 96.860967) (xy 111.042343 96.845047)
+			(xy 111.101164 96.825588) (xy 111.15904 96.802592) (xy 111.215812 96.776058) (xy 111.81377 96.485016)
+			(xy 110.22627 93.310017) (xy 110.70252 93.071892) (xy 110.7706 93.041322) (xy 110.840035 93.015826)
+			(xy 110.910564 92.99538) (xy 110.981927 92.979958) (xy 111.053863 92.969535) (xy 111.126111 92.964087)
+			(xy 111.198411 92.963589)
+		)
+		(stroke
+			(width 1.058333)
+			(type solid)
+			(color 128 128 128 1)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b2b6383c-e845-4e64-bfea-2494cd7dc06e")
+	)
+	(gr_line
+		(start 108.63877 101.776683)
+		(end 119.222103 101.776683)
+		(stroke
+			(width 1.058333)
+			(type solid)
+			(color 128 128 128 1)
+		)
+		(layer "F.SilkS")
+		(uuid "de4a3897-146b-43ce-8169-21447a97361c")
+	)
+	(gr_rect
+		(start 113 100.45)
+		(end 104.6 108.65)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "79e2c051-e4ce-40c7-b7e5-0fc6aeacaf9f")
+	)
 	(gr_line
 		(start 104 80)
 		(end 165.3 80)
@@ -2662,6 +2737,306 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "eab9e5f0-4a52-418f-bbda-30ed605a5128")
+	)
+	(gr_text "Drew Ratner"
+		(at 137.1 99.9 0)
+		(layer "F.SilkS")
+		(uuid "29fc9233-29ec-4336-a1a4-cb4cc24b2a3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "FlightDeck"
+		(at 137 96.7 0)
+		(layer "F.SilkS")
+		(uuid "691ea9a8-b917-492f-9222-3036e492f08b")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "2026"
+		(at 137.1 101.3 0)
+		(layer "F.SilkS")
+		(uuid "8fbaedc0-e31e-42cd-888b-5e59736d6cae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "DATE:"
+		(at 129.1 96.4 -0)
+		(layer "B.SilkS")
+		(uuid "32351831-953b-4ca0-a1b1-2df3b8d9e356")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "Drew Ratner"
+		(at 161.1 81.5 -0)
+		(layer "B.SilkS")
+		(uuid "336c131a-4cb5-485a-a346-fe7380ce27a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "ORIGIN:"
+		(at 152.995534 91.4 -0)
+		(layer "B.SilkS")
+		(uuid "3b302f0f-7d3a-46ea-a613-167f95105d33")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "11:02am"
+		(at 120.804466 106.6 0)
+		(layer "B.SilkS")
+		(uuid "3e183f64-aee4-42cf-b2cb-d3889acb5f6f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "NAME:"
+		(at 153.895534 96.2 -0)
+		(layer "B.SilkS")
+		(uuid "5492fcec-aa33-4152-a035-37e430afde65")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "DEN"
+		(at 146.195534 91.5 0)
+		(layer "B.SilkS")
+		(uuid "604ef557-62d9-4603-a8cf-bd19780625ef")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "HC1234"
+		(at 144.095534 101.4 0)
+		(layer "B.SilkS")
+		(uuid "65e7260f-98d8-4afd-93a8-af92b18657cd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "F L I G H T D E C K"
+		(at 131.595534 87.9 -0)
+		(layer "B.SilkS")
+		(uuid "739a7b24-55de-42a6-a3f6-cd124205e83a")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SEAT"
+		(at 108.8 102.1 -0)
+		(layer "B.SilkS")
+		(uuid "8e3b83d8-813e-43ff-bbcd-3653081c7de3")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.24)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "5/20/2026"
+		(at 119.204466 96.5 0)
+		(layer "B.SilkS")
+		(uuid "a46d9544-7ade-4c42-907e-a4a37e22e1a9")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "2026"
+		(at 161.1 82.9 -0)
+		(layer "B.SilkS")
+		(uuid "b20899a7-e780-4096-9bd2-2d0c0eb89501")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "TIME:"
+		(at 129 106.5 -0)
+		(layer "B.SilkS")
+		(uuid "b6b89d34-e258-4f2d-a153-ada76275a736")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "Drew Ratner"
+		(at 143.295534 96.2 -0)
+		(layer "B.SilkS")
+		(uuid "c2eff00e-ee43-4794-80b0-66edb59c1d97")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "B71"
+		(at 123.6 101.4 0)
+		(layer "B.SilkS")
+		(uuid "d56bf5a0-23b0-413b-ab4b-573ad63625ac")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "1C"
+		(at 108.8 105.5 -0)
+		(layer "B.SilkS")
+		(uuid "db74b31f-2859-48aa-a5dd-094f95b681c5")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.375)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "FLIGHT:"
+		(at 152.995534 101.3 -0)
+		(layer "B.SilkS")
+		(uuid "df83878c-6693-4962-be92-a0b6f31e326b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "BOARDING GROUP:"
+		(at 146.895534 106.3 -0)
+		(layer "B.SilkS")
+		(uuid "f1ab0490-0af0-4f32-b7ad-baef8947841c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "A"
+		(at 134.895534 106.5 -0)
+		(layer "B.SilkS")
+		(uuid "f4916353-e71a-43e3-af81-73987f41d0b4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "GATE:"
+		(at 129.1 101.4 -0)
+		(layer "B.SilkS")
+		(uuid "feb26bb2-4154-46cf-9a39-1b467edcb9a8")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "HKC"
+		(at 114.8 91.9 0)
+		(layer "B.SilkS")
+		(uuid "ff38dc37-069a-4672-9b6d-292a0c99f89f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "DESTINATION:"
+		(at 124.9 91.8 -0)
+		(layer "B.SilkS")
+		(uuid "ffc151c7-0aed-40de-b571-139b9afec89d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify mirror)
+		)
 	)
 	(segment
 		(start 150.38 113.96)
@@ -4378,6 +4753,24 @@
 				(xy 151.735986 80.568994) (xy 151.783597 80.517857) (xy 151.846869 80.5005) (xy 165.234108 80.5005)
 				(xy 165.293038 80.5005)
 			)
+		)
+	)
+	(group ""
+		(uuid "49630a3d-700e-40fb-984d-cdfec4fabc80")
+		(members "b2b6383c-e845-4e64-bfea-2494cd7dc06e" "de4a3897-146b-43ce-8169-21447a97361c")
+	)
+	(group ""
+		(uuid "59fe94c7-0334-470c-b2d8-f1ac83543b1e")
+		(members "32351831-953b-4ca0-a1b1-2df3b8d9e356" "3b302f0f-7d3a-46ea-a613-167f95105d33"
+			"3e183f64-aee4-42cf-b2cb-d3889acb5f6f" "5492fcec-aa33-4152-a035-37e430afde65"
+			"604ef557-62d9-4603-a8cf-bd19780625ef" "65e7260f-98d8-4afd-93a8-af92b18657cd"
+			"739a7b24-55de-42a6-a3f6-cd124205e83a" "79e2c051-e4ce-40c7-b7e5-0fc6aeacaf9f"
+			"8e3b83d8-813e-43ff-bbcd-3653081c7de3" "a46d9544-7ade-4c42-907e-a4a37e22e1a9"
+			"b6b89d34-e258-4f2d-a153-ada76275a736" "c2eff00e-ee43-4794-80b0-66edb59c1d97"
+			"d56bf5a0-23b0-413b-ab4b-573ad63625ac" "db74b31f-2859-48aa-a5dd-094f95b681c5"
+			"df83878c-6693-4962-be92-a0b6f31e326b" "f1ab0490-0af0-4f32-b7ad-baef8947841c"
+			"f4916353-e71a-43e3-af81-73987f41d0b4" "feb26bb2-4154-46cf-9a39-1b467edcb9a8"
+			"ff38dc37-069a-4672-9b6d-292a0c99f89f" "ffc151c7-0aed-40de-b571-139b9afec89d"
 		)
 	)
 	(embedded_fonts no)
