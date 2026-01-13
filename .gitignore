@@ -1,4 +1,6 @@
 *.bak
 *.lck
 *.zip
+gerbers/
+FlightDeck-backups
 settings.toml
