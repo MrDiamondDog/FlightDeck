@@ -20,13 +20,20 @@ The hardware falls around $35 total on Aliexpress. See the [BOM](BOM) below.
 - 2.1mm Terminal Block Adapter ([Aliexpress](https://www.aliexpress.us/item/3256806569458868.html?spm=a2g0o.productlist.0.0.1448c50c2Ocu5n&mp=1&pdp_npi=6%40dis%21USD%21USD%204.07%21USD%203.91%21%21USD%203.91%21%21%21%402103126e17682742270461949e7fd6%2112000038197813479%21ct%21US%216602055344%21%211%210%21&gatewayAdapt=glo2usa)) (also only in 10 packs)
 - 5V 2A Barrel Jack Power Supply ([Aliexpress](https://www.aliexpress.us/item/3256807078618738.html?spm=a2g0o.cart.0.0.2c9538dayiBd5T&mp=1&pdp_npi=6%40dis%21USD%21USD%203.50%21USD%203.41%21%21USD%203.41%21%21%21%402103126e17682743226734291e7fd6%2112000039998101063%21ct%21US%216602055344%21%211%210%21&gatewayAdapt=glo2usa))
 
+Use [this website](https://learn.adafruit.com/adafruit-matrixportal-s3/overview) for more information on setting up the Matrix Portal.
+
+The power and data connections are pretty simple, use the power wires from the LED Matrix to connect the microcontroller and just plug the microcontroller directly into the LED matrix, no need for the ribbon cable. [This guide](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/) explains it in more detail.
+
+### Wiring Diagram
+
+<img width="2135" height="1137" alt="image" src="https://github.com/user-attachments/assets/f8d3df92-815a-4f31-89e8-5137e2766159" />
+(Pretend the microcontroller is an S3 not M4, it has the same wiring)
+
 ## Firmware
 
 Programmed in CircuitPython, using the https://airlabs.co/ free live flight API. You may have to send them an email to get access. 
 
 Make sure to rename the `settings.example.toml` file to `settings.toml` and fill in all the values.
-
-Use [this guide](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/) to get everything set up.
 
 ## BOM
 
